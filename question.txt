@@ -1,0 +1,18 @@
+Decidir sobre una métrica principal
+Como ha visto, varias métricas pueden ser útiles para evaluar el rendimiento de los modelos de clasificación, incluida la exactitud, la precisión, la recuperación y la puntuación F1.
+
+En este ejercicio, se le proporcionarán tres problemas de clasificación diferentes, y su tarea es seleccionar el problema en el que la precisión se adapte mejor como métrica principal.
+
+responde la pregunta
+50XP
+Respuestas posibles
+
+Un modelo que predice la presencia de cáncer como la clase positiva.
+prensa
+1
+
+Un clasificador que predice la clase positiva de un programa informático que contiene malware.
+prensa
+2
+
+Un modelo que predice si un cliente es un prospecto de alto valor para un equipo de ventas con capacidad limitada.
