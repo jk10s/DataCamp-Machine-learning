@@ -1,0 +1,15 @@
+Bien hecho al producir la curva ROC para el modelo de predicción de diabetes.
+
+Pero, ¿qué te dice la trama sobre el desempeño del modelo?
+
+Respuestas posibles
+
+El modelo es tan bueno como adivinar aleatoriamente la clase de cada observación.
+
+El modelo es mucho peor que adivinar aleatoriamente la clase de cada observación.
+
+El modelo es mucho mejor que adivinar aleatoriamente la clase de cada observación.
+
+No es posible concluir si el modelo funciona mejor o peor que adivinar aleatoriamente la clase de cada observación.
+
+es la tercera el model es mucho mejor ......
