@@ -1,0 +1,89 @@
+Establecer los objetivos de la minería de datos
+
+"El primer paso en la minería de datos requiere que se establezcan objetivos para el ejercicio. Obviamente, hay que identificar las
+Sin embargo, más allá de la identificación de las preguntas clave están las
+preocupación por los costes y beneficios del ejercicio. Además, hay que determinar, por adelantado, el
+nivel de precisión y utilidad que se espera de los resultados obtenidos con la extracción de datos. Si el dinero no fuera un problema
+se podrían lanzar tantos fondos como fuera necesario para obtener las respuestas requeridas. Sin embargo, la relación coste-beneficio
+es siempre fundamental para determinar los objetivos y el alcance del ejercicio de minería de datos. El nivel de
+precisión que se espera de los resultados también influye en los costes. Un alto nivel de precisión de la minería de datos
+de la minería de datos costaría más y viceversa. Además, a partir de un determinado nivel de precisión, no se gana mucho con el
+ejercicio, dado que los rendimientos son decrecientes. Por lo tanto, las compensaciones costo-beneficio para el nivel de precisión deseado son
+importantes para los objetivos de la minería de datos.
+
+ 
+
+Selección de datos
+"El resultado de un ejercicio de extracción de datos depende en gran medida de la calidad de los datos utilizados. A veces, los datos están
+datos están fácilmente disponibles para su procesamiento posterior. Por ejemplo, los minoristas a menudo poseen grandes bases de datos de
+de clientes y datos demográficos. Por otro lado, los datos pueden no estar fácilmente disponibles para la minería de datos. En estos
+En estos casos, hay que identificar otras fuentes de datos o incluso planificar nuevas iniciativas de recogida de datos, incluidas las encuestas.
+"El tipo de datos, su tamaño y la frecuencia de recopilación influyen directamente en el coste de la extracción de datos
+ejercicio de minería de datos. Por lo tanto, es fundamental identificar el tipo de datos que se necesita para la extracción de datos y que pueda responder a las preguntas con un coste razonable.
+preguntas a un coste razonable.
+
+Preprocesamiento de datos
+El preprocesamiento de los datos es un paso importante en la minería de datos. A menudo, los datos brutos están desordenados y contienen datos erróneos o
+erróneos o irrelevantes. Además, incluso con datos relevantes, a veces falta información. En el preprocesamiento
+stago, se identifican los atributos irrelevantes de los datos y se eliminan dichos atributos para su posterior consideración.
+-Al mismo tiempo, es necesario identificar los aspectos erróneos del conjunto de datos y marcarlos como tales.
+Por ejemplo, un error humano puede llevar a una fusión inadvertida o a un análisis incorrecto de la información entre
+columnas. Los datos deben someterse a comprobaciones para garantizar su integridad. Por último, hay que desarrollar un método formal para
+para tratar los datos que faltan y determinar si los datos faltan de forma aleatoria o sistemática.
+
+Si los datos faltan de forma aleatoria, bastará con una simple serie de soluciones. Sin embargo, cuando los datos
+Sin embargo, cuando los datos faltan de forma sistemática, hay que determinar el impacto de los datos que faltan en los resultados. Por ejemplo, un
+Por ejemplo, un subconjunto particular de individuos en un conjunto de datos grande puede haberse negado a revelar sus ingresos. Resultados
+que se basan en los ingresos de un individuo como entrada excluirían los detalles de aquellos individuos cuyos ingresos
+ingresos no fueron declarados. Esto daría lugar a sesgos sistemáticos en el análisis. Por lo tanto, hay que considerar de antemano si
+las observaciones o las variables que contienen datos ausentes deben excluirse de todo el análisis o de partes del mismo.
+
+Transformación de los datos
+
+Una vez retenidos los atributos relevantes de los datos, el siguiente paso es determinar el formato adecuado
+Una consideración importante en la minería de datos es reducir el número de atributos necesarios para explicar el fenómeno.
+atributos necesarios para explicar el fenómeno. Para ello puede ser necesario transformar los datos. La reducción de datos
+Los algoritmos de reducción de datos, como el análisis de componentes principales (demostrado y explicado más adelante en este capítulo), pueden
+reducir el número de atributos sin una pérdida significativa de información. Además, las variables pueden necesitar
+Además, puede ser necesario transformar las variables para ayudar a explicar el fenómeno que se está estudiando. Por ejemplo, los ingresos de un individuo pueden ser
+ingresos de un individuo pueden registrarse en el conjunto de datos como ingresos salariales; los ingresos de otras fuentes, como el alquiler de propiedades; los pagos de ayuda del gobierno, y otros similares.
+de apoyo por parte del gobierno, etc. Si se agregan los ingresos de todas las fuentes, se obtendrá un
+indicador representativo de los ingresos individuales.
+
+A menudo es necesario transformar las variables de un tipo a otro. Puede ser prudente transformar la
+variable continua de ingresos en una variable categórica en la que cada registro de la base de datos se identifique como
+individuo con ingresos bajos, medios y altos. Esto podría ayudar a capturar las no linealidades en los comportamientos subyacentes.
+comportamientos.
+
+Almacenamiento de datos
+
+Los datos transformados deben almacenarse en un formato que los haga propicios para la minería de datos. Los datos deben
+Los datos deben almacenarse en un formato que otorgue privilegios de lectura/escritura inmediatos y sin restricciones al científico de datos. En
+Durante la extracción de datos, se crean nuevas variables que se escriben en la base de datos original, por lo que el
+Por ello, el esquema de almacenamiento de datos debe facilitar la lectura y la escritura en la base de datos. También es
+También es importante almacenar los datos en servidores o medios de almacenamiento que mantengan la seguridad de los datos y eviten que el algoritmo de minería de datos busque innecesariamente.
+que el algoritmo de minería de datos busque innecesariamente piezas de datos dispersas en diferentes servidores o medios de almacenamiento.
+de almacenamiento. La seguridad y la privacidad de los datos deben ser una preocupación primordial a la hora de almacenarlos.
+
+Minería de datos
+
+Una vez que los datos se han procesado, transformado y almacenado adecuadamente, se someten a la minería de datos. Este paso abarca
+métodos de análisis de datos, incluyendo métodos paramétricos y no paramétricos, y algoritmos de aprendizaje automático.
+de aprendizaje automático. Un buen punto de partida para la minería de datos es la visualización de los mismos. Vistas multidimensionales de los datos
+utilizando las capacidades gráficas avanzadas del software de minería de datos son muy útiles para desarrollar una
+de los datos son muy útiles para desarrollar una comprensión preliminar de las tendencias ocultas en el conjunto de datos.
+
+En las secciones posteriores de este capítulo se detallan los algoritmos y métodos de la minería de datos.
+
+Evaluación de los resultados de la minería
+
+Después de que los resultados se han extraído de la minería de datos, usted hace una evaluación formal de los resultados. Formal
+La evaluación formal podría incluir la prueba de las capacidades de predicción de los modelos en los datos observados para ver cómo
+para comprobar la eficacia y la eficiencia de los algoritmos en la reproducción de los datos. Esto se conoce como previsión dentro de la muestra.
+Además, los resultados se comparten con las principales partes interesadas para que den su opinión, que luego se incorpora en las
+posteriores iteraciones de la minería de datos para mejorar el proceso.
+
+La extracción de datos y la evaluación de los resultados se convierten en un proceso iterativo, de manera que los analistas utilizan algoritmos mejores y
+algoritmos mejorados para mejorar la calidad de los resultados generados a la luz de los comentarios recibidos de los
+de las partes interesadas.
+
