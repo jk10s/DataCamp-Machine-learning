@@ -1,0 +1,83 @@
+¿Qué hace que alguien sea un científico de datos?
+
+"Ahora que sabes lo que hay en el libro, es hora de poner algunas definiciones, a pesar de su uso omnipresente, el consenso evade las nociones de big data y ciencia de datos. La pregunta "¿quién es un científico de datos? está muy viva y es contestada por individuos, algunos de los cuales sólo están interesados en proteger su
+disciplina o el terreno académico. En esta sección, intento abordar estas controversias y explicar por qué una una definición restringida de big data o de ciencia de los datos excluirá a cientos de miles de
+de miles de personas que se han volcado recientemente en este campo emergente.
+
+"Todo el mundo quiere a un científico de datos", escribió Simon Rogers (2012) en The Guardian. El Sr. Rogers también señaló el
+
+de Google, Hal Varian, que declaró que "el trabajo más sexy de los próximos diez años será el de estadístico". los próximos diez años será el de estadístico".
+
+ 
+
+Aunque Hal Varian dijo que los estadísticos eran sexys, se cree que lo que realmente quería decir eran los científicos de datos. datos. Esto plantea varias cuestiones importantes:
+
+¿Qué es la ciencia de los datos?
+¿En qué se diferencia de la estadística?
+¿Qué hace que alguien sea un científico de datos?
+
+En los tiempos del big data, una pregunta tan sencilla como "¿Qué es la ciencia de los datos?" puede dar lugar a muchas respuestas. En En algunos casos, la diversidad de opiniones sobre estas respuestas roza la hostilidad
+
+1 define al científico de datos como alguien que encuentra soluciones a los problemas mediante el análisis de datos grandes o pequeños utilizando herramientas apropiadas y, a continuación, tes historias para comunicar sus conclusiones a las partes interesadas. No utilizo el tamaño de los datos como cláusula restrictiva, Un dato por debajo de un determinado umbral arbitrario no hace que uno sea menos científico de datos.
+científico de datos. Tampoco mi definición de científico de datos se limita a herramientas analíticas concretas, como el aprendizaje automático. aprendizaje automático. Mientras uno tenga una mente curiosa, fluidez en la analítica y la capacidad de comunicar los de comunicar los resultados, considero que la persona es un científico de datos.
+
+                      
+El profesor Raghuram Rajan se licenció en ingeniería eléctrica en el Instituto Indio de
+Tecnología. Se dedicó a la economía en los estudios de posgrado, más tarde se convirtió en profesor en una prestigiosa universi y finalmente aterrizó en el FMI. Actualmente es el 23º Gobernador del Banco de la Reserva de la India.
+¿Podría alguien argumentar que su destreza intelectual se basa únicamente en su formación como economista y que los que los fundamentos que aprendió como estudiante de ingeniería no desempeñaron ningún papel en el desarrollo de su capacidad para resolver problemas. ¿hay que tener en cuenta su capacidad para resolver problemas?
+
+El profesor Rajan es ingeniero. También lo son Xi Jinping, el Presidente de la República Popular China, y
+
+  
+
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
+
+Alexis Tsipras, el primer ministro griego que está obligando al mundo a replantearse los fundamentos de la economía mundial. Puede que no estén diseñando nuevas cirugías, equipos de destilación o puentes, pero están ayudando a construir mejores sociedades y economías, y no puede haber mejor definición de ingeniería e ingenieros, es decir, personas dedicadas a construir mejores economías y sociedades.
+
+Así que, brevemente, diría que la ciencia de los datos es lo que hacen los científicos de datos.
+
+Otros tienen definiciones muy diferentes. En septiembre de 2015, un co-panelista en un meetup organizado por BigDataUniversity.com en Toronto, confinó la ciencia de datos al aprendizaje automático, Ahí lo tienen. Si no se utilizan las cajas negras que componen el aprendizaje automático, según algunos expertos en la materia, no se es un científico de datos.
+Aunque descubras la cura de una enfermedad que amenaza la vida de millones de personas, los colegas que protegen su territorio te excluirán. "te excluirán del club de la ciencia de datos.
+
+El Dr. Vincent Granville (2014), un autor sobre la ciencia de datos, ofrece ciertos umbrales que hay que cumplir para ser un científico de datos2? En las páginas 8 y 9 de Developing Anabytic Talent el Dr. Granville describe al nuevo profesor de ciencia de datos como un profesor no titular en una universidad no tradicional, que publica los resultados de la investigación en blogs en línea, no pierde el tiempo escribiendo subvenciones, trabaja desde casa y gana más dinero que los Basta con decir que la próspera comunidad académica de científicos de datos
+podría estar en desacuerdo con el Dr. Gramválle
+
+  
+
+El Dr. Granville utiliza las restricciones del tamaño de los datos y los métodos para definir lo que es la ciencia de los datos. define a un científico de datos como alguien que puede "procesar fácilmente un conjunto de datos de 50 millones de filas en un par de horas" y que desconfía de los modelos (estadísticos). modelos (estadísticos). Distingue la ciencia de los datos de la estadística. Sin embargo, menciona el álgebra, el cálculo y la formación
+en probabilidad y estadística como antecedentes necesarios "para entender la ciencia de los datos" (página 4).
+
+Algunos creen que el big data consiste simplemente en cruzar un determinado umbral en el tamaño de los datos o el número de
+observaciones, o se trata del uso de una herramienta concreta, como Hadoop. Estos umbrales arbitrarios de tamaño de los datos
+son problemáticos porque, con la innovación, incluso los ordenadores normales y el software offthe-shelí han empezado a
+manipular conjuntos de datos muy grandes. Stata, 2 software comúnmente utilizado por los científicos de datos y los estadísticos
+anunció que ahora se pueden procesar entre 2.000 millones y 24.400 millones de filas utilizando sus soluciones de escritorio. 1£
+Hadoop es la contraseña del club de los grandes datos, la capacidad de Stata de procesar 24.400 millones de filas, bajo ciertas
+limitaciones, acaba de colarse en la fiesta de los grandes datos 22
+
+Es importante darse cuenta de que quien trata de establecer umbrales arbitrarios para excluir a otros es probable que se encuentre con
+El objetivo debería ser definir la ciencia de los datos en un contexto más exclusivo, independiente de la disciplina y la plataforma, y libre de tamaño.
+El objetivo debería ser definir la ciencia de los datos en un contexto más exclusivo, independiente de la disciplina y la plataforma, y libre de tamaño, en el que la resolución de problemas centrada en los datos y la capacidad de tejer fuertes narrativas
+de los datos y la capacidad de tejer narrativas sólidas.
+
+Dada la controversia, prefiero consultar a otros para ver cómo describen a un científico de datos. ¿Por qué dot
+vo consultar al científico de datos jefe de los Estados Unidos? Recordemos que el Dr. Patil dijo al periódico The Guardian en
+2012 que un "científico de datos es esa mezcla única de habilidades que puede tanto desvelar las ideas de los datos como contar una historia fantástica a través de los datos".
+Lo que es admirable de la definición del Dr. Patil es que incluye a personas de
+de formación académica, y no restringe la definición de un científico de datos a un
+a una herramienta concreta y no la somete a un umbral mínimo arbitrario de tamaño de los datos.
+
+"El otro ingrediente clave para el éxito de un científico de datos es un rasgo de comportamiento: la curiosidad. Un científico de datos
+tiene que ser una persona con una mente muy curiosa, dispuesta a dedicar mucho tiempo y esfuerzo a explorar sus corazonadas.
+En periodismo, los editores lo llaman tener olfato para las noticias. No todos los periodistas saben dónde está la noticia. Sólo
+que tienen el olfato para las noticias consiguen la historia. La curiosidad es tan importante para los científicos de datos como para los
+periodistas.
+
+Rachel Schutt es la científica de datos jefe de News Corp. Enseña un curso de ciencia de datos en la
+Universidad de Columbia. También es autora de un excelente libro, Doing Data Science. En una entrevista con el Mew York
+Times, la Dra. Schutt definió a un científico de datos como alguien que es en parte informático, en parte ingeniero de software
+y parte estadístico" (Miller, 2013). Pero esa es la definición de un científico de datos medio. "Los mejores", sostuvo
+Los mejores", afirma, "tienden a ser personas realmente curiosas, pensadores que se hacen buenas preguntas y que se sienten bien tratando con
+situaciones no estructuradas y tratan de encontrar una estructura en ellas".
+
