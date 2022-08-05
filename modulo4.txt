@@ -1,0 +1,108 @@
+a estructura del informe
+
+Antes de comenzar el análisis, piense en la estructura del informe. ¿Será un informe breve de cinco o menos páginas, o
+¿será un documento más largo, de más de 100 páginas? La estructura del informe depende de la longitud
+del documento. Un informe breve es más directo y presenta un resumen de las principales conclusiones. Un informe detallado
+un informe detallado construye el argumento y contiene detalles sobre otros trabajos relevantes, la metodología de investigación, las fuentes de datos
+fuentes de datos y conclusiones intermedias junto con los resultados principales.
+
+He revisado informes de consultores de primera línea, como Deloitte y McKinsey. He comprobado que la longitud de los
+informes variaba dependiendo en gran medida del objetivo del informe. Los informes breves se redactaron como comentarios sobre
+tendencias y desarrollos actuales que atraían la atención del público o de los medios de comunicación. Los informes detallados y exhaustivos ofrecían una
+Los informes detallados y exhaustivos ofrecían una revisión crítica del tema con un amplio análisis de datos y comentarios. A menudo, los informes detallados recogían
+nuevos datos o entrevistaban a expertos del sector para responder a las preguntas de la investigación.
+
+Incluso si se espera que el informe sea breve, con cinco o menos páginas, recomiendo que el entregable siga un
+formato prescrito que incluya la portada, el índice, el resumen ejecutivo, el contenido detallado
+agradecimientos, referencias y apéndices (si son necesarios).
+
+A menudo encuentro que falta la portada en los documentos. No es la inexperiencia de los estudiantes de grado lo que se refleja en
+reflejada en los envíos que suelen carecer de la portada. De hecho, los doctorandos también necesitan un recordatorio explícito
+de incluir una portada informativa. Me apresuro a mencionar que los sabuesos del mundo empresarial apenas son mejores. Basta con
+busque informes en Internet y encontrará un montón de informes de empresas reputadas a los que les falta la portada.
+
+Como mínimo, la portada debe incluir el título del informe, los nombres de los autores, sus afiliaciones y
+contactos, el nombre del editor institucional (si lo hay) y la fecha de publicación. He visto numerosos informes en los que falta
+la fecha de publicación, por lo que es imposible citarlos sin el año y el mes de publicación. Además, desde el punto de vista
+Además, desde el punto de vista empresarial, los autores deberían facilitar al lector la posibilidad de ponerse en contacto con ellos. Tener los datos de contacto en el
+feontmakecthatacbeaciór:
+
+2.
+Un índice de contenidos (TdC) es como un mapa necesario para un viaje nunca realizado. Es necesario tener una idea del viaje
+antes de emprenderlo. Un mapa proporciona una representación visual del viaje real con detalles sobre los puntos de referencia por los que
+que pasarás en tu viaje. El TdC, con sus títulos principales y las listas de cuadros y cifras, ofrece una visión de lo que hay por delante
+en el documento. Nunca hay que dejar de incluir una TdC, sobre todo si el documento, excluyendo la portada, el índice y las referencias, tiene cinco o más páginas.
+índice y las referencias, tiene cinco o más páginas.
+
+Incluso en el caso de un documento corto, 1 recomienda un resumen o una síntesis. Nada es más poderoso que
+que explicar el meollo de sus argumentos en tres párrafos o menos. Por supuesto, en el caso de los documentos más extensos, de varios cientos de páginas, el resumen ejecutivo puede ser la mejor opción.
+cientos de páginas, el resumen puede ser más largo.
+
+Una sección introductoria siempre es útil para plantear el problema al lector que puede ser nuevo en el tema y
+que puede necesitar una suave introducción al tema antes de sumergirse en los intrincados detalles. Una buena
+Una buena continuación de la sección introductoria es una revisión de la investigación disponible sobre el tema. La longitud de la sección de
+La extensión de la sección de revisión bibliográfica depende de lo controvertido que sea el tema. En los casos en los que la gran mayoría de
+En los casos en los que la gran mayoría de los investigadores han llegado a una conclusión en una dirección, la revisión bibliográfica podría ser breve y citar sólo a los autores más
+ciones de los autores más influyentes sobre el tema. Por otro lado, si los argumentos son más matizados y con abundantes advertencias, entonces
+debe citar las investigaciones pertinentes para ofrecer el contexto adecuado antes de embarcarse en su análisis. Puede utilizar
+revisión bibliográfica para poner de manifiesto las lagunas en los conocimientos existentes, que su análisis tratará de llenar. Aquí es donde
+Aquí es donde se introducen formalmente las preguntas y la hipótesis de la investigación.
+
+En la sección de metodología, se presentan los métodos de investigación y las fuentes de datos que se han utilizado para el análisis. Si ha
+Si ha recogido nuevos datos, explique el ejercicio de recogida de datos con cierto detalle. Se referirá a la revisión de la literatura para
+para reforzar la elección de las variables, los datos y los métodos, así como la forma en que le ayudarán a responder a sus preguntas de investigación.
+
+En la sección de resultados se presentan las conclusiones empíricas. A partir de las estadísticas descriptivas (véase el capítulo 4
+
+Servir a las tablas") y gráficos ilustrativos (véase el capítulo 5, "Detalles gráficos", para los gráficos, y el capítulo 10, "Análisis de datos espaciales", para los mapas).
+para los mapas), avanzará hacia la comprobación formal de su hipótesis (véase el capítulo 6, "Hipotéticamente hablando").
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
+
+3rt
+En caso de que necesite ejecutar modelos estadísticos, puede recurrir a modelos de regresión (véase el capítulo 7, "Por qué los padres altos no
+tienen hijos aún más altos") o al análisis categórico (véanse los capítulos 8, "Ser o no ser" y 9, "Hablando categóricamente
+sobre datos categóricos"). Si está trabajando con datos de series temporales, puede consultar el capítulo 11, "Haciendo tiempo en serio
+con series temporales". También puede informar de los resultados de otras técnicas empíricas que se engloban bajo la rúbrica general de la minería de datos
+de la minería de datos (véase el capítulo 12, "Minería de datos para el oro"). Tenga en cuenta que muchos informes del sector empresarial presentan los resultados de forma más
+más agradable, ya que no incluyen los detalles estadísticos y recurren a gráficos ilustrativos para resumir los resultados.
+
+   
+
+A la sección de resultados le sigue la sección de discusión, en la que se elaboran los argumentos principales a partir de los resultados presentados anteriormente.
+resultados que ha presentado anteriormente. La sección de discusión es donde se confía en el poder de la narrativa para que los números
+para comunicar su tesis a los lectores. Se remite al lector a la pregunta de investigación y a las lagunas de conocimiento
+que ha identificado anteriormente. Destaca cómo sus hallazgos proporcionan la última pieza que falta en el rompecabezas.
+
+Por supuesto, no todos los análisis arrojan una pistola humeante. A veces, con más frecuencia de la que me gustaría reconocer, los
+resultados sólo proporcionan una respuesta parcial a la pregunta y, además, con una larga lista de advertencias.
+
+En la sección de conclusiones, se generalizan los resultados específicos y se adopta un enfoque más bien de marketing para promover
+sus hallazgos para que el lector no se quede atascado en las advertencias que usted ha esbozado voluntariamente antes. En
+También puede identificar los posibles desarrollos futuros de la investigación y las aplicaciones que podrían derivarse de su investigación.
+
+Lo que queda es el trabajo doméstico, que incluye una lista de referencias, la sección de agradecimientos (en la que se reconoce el
+(siempre es bueno agradecer el apoyo de quienes han hecho posible tu trabajo), y los apéndices, si son necesarios.
+
+¿Has hecho tu trabajo como escritor?
+
+Como científico de datos, se espera que hagas un análisis exhaustivo con los datos adecuados, desplegando las herramientas apropiadas.
+herramientas adecuadas. Como escritor, eres responsable de comunicar tus conclusiones a los lectores. Zransport Policy, una de las principales
+ofrece una lista de comprobación para los autores interesados en publicar en la revista.
+La lista es una serie de preguntas que los autores deben tener en cuenta antes de enviar su manuscrito a la revista.
+revista. Creo que la lista de comprobación es útil para los científicos de datos en ciernes y, por lo tanto, la he reproducido textualmente para
+para su beneficio.
+
+1. ¿Ha informado a los lectores, desde el principio, de lo que podrían ganar con la lectura de su artículo?
+2. ¿Ha dejado claro el objetivo de su trabajo?
+3. ¿Ha explicado la importancia de su contribución?
+
+4. ¿Ha situado su trabajo en el contexto adecuado, proporcionando suficientes antecedentes (incluyendo un conjunto completo de
+de referencias relevantes) de su trabajo?
+
+5. ¿Ha abordado la cuestión de la practicidad y la utilidad?
+6. ¿Ha identificado los futuros desarrollos que podrían derivarse de su trabajo?
+
+7. ¿Ha estructurado su trabajo de forma clara y lógica?
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
